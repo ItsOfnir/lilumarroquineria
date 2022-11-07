@@ -55,4 +55,19 @@
     }
 }
 /* fin boton wpp */
+.navegacion{
+    background-color: #bb744d;
+}
+.colorbody{
+    background-color: rgb(244,236,224);
+    background: linear-gradient(146deg, rgba(244,236,224,1) 12%, rgba(222,185,164,1) 31%, rgba(187,116,77,1) 50%, rgba(182,179,177,1) 80%);
+    
+}
+.fondoproductos{
+    background-color: #f4ece0;
+}
+.cajaproducto{
+    padding: 20px;
+}
+
 
