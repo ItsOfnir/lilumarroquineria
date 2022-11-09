@@ -23,6 +23,12 @@
         padding: 30px;
         justify-content: space-around;
     }
+    .titulo{
+        font-size: 25px;
+    }
+    .navreducido{
+        font-size: 18px;
+    }
 }
 /* boton wpp */
 .botonwpp{
@@ -57,16 +63,28 @@
 /* fin boton wpp */
 .navegacion{
     background-color: #bb744d;
+    font-size: 23px; 
 }
 .colorbody{
     background-color: rgb(244,236,224);
     background: linear-gradient(146deg, rgba(244,236,224,1) 12%, rgba(222,185,164,1) 31%, rgba(187,116,77,1) 50%, rgba(182,179,177,1) 80%);
-    
 }
 .fondoproductos{
     background-color: #f4ece0;
 }
 .cajaproducto{
+    padding: 20px;
+}
+.centrado{
+    display:flex;
+    justify-content: center;
+}
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    background-color: orange;
+    text-align: center;
     padding: 20px;
 }
 
