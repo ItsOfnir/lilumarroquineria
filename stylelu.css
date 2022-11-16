@@ -7,8 +7,7 @@
     padding-top: 25px;
 }
 .cajaderedesfooter{
-    padding: 15px;
-    text-align: center;
+   text-align: center;
 }
 .ordenfoter{
     display: flex;
@@ -20,7 +19,6 @@
     .ordenfoter{
         flex-direction: column;
         align-items: center;
-        padding: 30px;
         justify-content: space-around;
     }
 }
